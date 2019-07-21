@@ -2,3 +2,8 @@
 *.iml
 target/*
 src/test/*
+.classpath
+.project
+.vscode/*
+.settings/*
+**.class
